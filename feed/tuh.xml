@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Thu, 18 Jun 2026 16:11:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 03:34:46 GMT</lastBuildDate>
     <item>
       <title>You have over five thousand unread emails and screenshots of things you will never look at again.</title>
       <link>https://theunhacked.com</link>
@@ -35,5 +35,17 @@
 
 → https://theunhacked.com</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-06-17-3e22f9c8/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>Three months ago, Surfshark quietly changed hands—and your data went with it.</title>
+      <link>https://theunhacked.com</link>
+      <guid isPermaLink="false">asset-2026-06-18-21883b17</guid>
+      <pubDate>Fri, 19 Jun 2026 03:34:46 GMT</pubDate>
+      <description>Surfshark&apos;s new owners share logs
+
+#vpntruth #surfsharkexposed #digitalprivacy #nologs #encryptionmatters #tuhsecurity #stopdatasharing
+
+→ https://theunhacked.com</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-06-18-21883b17/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
