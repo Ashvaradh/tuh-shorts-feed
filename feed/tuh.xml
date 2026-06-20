@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Fri, 19 Jun 2026 04:15:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 06:05:53 GMT</lastBuildDate>
     <item>
       <title>You have over five thousand unread emails and screenshots of things you will never look at again.</title>
       <link>https://theunhacked.com</link>
@@ -47,5 +47,17 @@
 
 → https://theunhacked.com</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-06-18-21883b17/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>Your antivirus is stopping hackers, but it&apos;s also watching every single website you visit.</title>
+      <link>https://theunhacked.com</link>
+      <guid isPermaLink="false">asset-2026-06-20-e3214fee</guid>
+      <pubDate>Sat, 20 Jun 2026 06:05:53 GMT</pubDate>
+      <description>Is your antivirus spying on you?
+
+#cybersecurity #privacytips #antivirus #bitdefender #digitalsovereignty #dataprivacy #unhacked #techtruth
+
+→ https://theunhacked.com</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-06-20-e3214fee/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
