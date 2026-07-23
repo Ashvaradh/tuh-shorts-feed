@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Sat, 18 Jul 2026 05:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 15:10:57 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -315,5 +315,25 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-18-9279eda1/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>When your password is stronger than your coffee</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-07-23-3347a1f6</guid>
+      <pubDate>Thu, 23 Jul 2026 10:49:13 GMT</pubDate>
+      <description>When your password is stronger than your coffee
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-23-3347a1f6/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>You&apos;re not paying for those free apps with money, but with something far more valuable - your attention. Dive into the mysterious world of data brokerage and find out how your personal info is being sold to the highest bidder.</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-07-23-fd4435d7</guid>
+      <pubDate>Thu, 23 Jul 2026 15:10:57 GMT</pubDate>
+      <description>You&apos;re not paying for those free apps with money, but with something far more valuable - your attention. Dive into the mysterious world of data brokerage and find out how your personal info is being sold to the highest bidder.
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-23-fd4435d7/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
