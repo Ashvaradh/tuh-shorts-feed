@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 15:08:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 22:08:58 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -395,5 +395,15 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-24-39252666/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>What if healing was just a touch away? Discover the ancient art of Reiki and its modern-day miracles.</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-07-24-8b55f02c</guid>
+      <pubDate>Fri, 24 Jul 2026 22:08:58 GMT</pubDate>
+      <description>What if healing was just a touch away? Discover the ancient art of Reiki and its modern-day miracles.
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-24-8b55f02c/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
