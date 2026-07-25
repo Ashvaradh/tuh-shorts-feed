@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Sat, 25 Jul 2026 10:09:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 16:09:03 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -415,5 +415,15 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-25-d6aae210/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>In a world where data breaches are on the rise, can Bitwarden be the solution to your password management woes? Let&apos;s dive into the mystery and uncover the truth.</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-07-25-876cbb83</guid>
+      <pubDate>Sat, 25 Jul 2026 16:09:03 GMT</pubDate>
+      <description>In a world where data breaches are on the rise, can Bitwarden be the solution to your password management woes? Let&apos;s dive into the mystery and uncover the truth.
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-25-876cbb83/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
