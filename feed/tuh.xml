@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Tue, 28 Jul 2026 22:09:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:09:31 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -535,5 +535,15 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-28-5ccda88b/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>Discover the ultimate game-changer in cybersecurity - a hardware logic root-of-trust that puts you in control of your digital sovereignty</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-07-29-66710a7e</guid>
+      <pubDate>Wed, 29 Jul 2026 16:09:31 GMT</pubDate>
+      <description>Discover the ultimate game-changer in cybersecurity - a hardware logic root-of-trust that puts you in control of your digital sovereignty
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-07-29-66710a7e/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
