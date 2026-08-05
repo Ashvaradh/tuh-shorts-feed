@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Wed, 05 Aug 2026 16:16:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 22:16:44 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -685,5 +685,15 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-05-c68157b4/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>Have you ever felt a strange &apos;buzz&apos; in your ears after using AirPods Pro 2? You&apos;re not alone. Join us as we delve into this mysterious phenomenon and explore the science behind it.</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-08-05-20f355e1</guid>
+      <pubDate>Wed, 05 Aug 2026 22:16:44 GMT</pubDate>
+      <description>Have you ever felt a strange &apos;buzz&apos; in your ears after using AirPods Pro 2? You&apos;re not alone. Join us as we delve into this mysterious phenomenon and explore the science behind it.
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-05-20f355e1/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
