@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Sat, 08 Aug 2026 09:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 16:19:32 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -765,5 +765,15 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-08-c693b09c/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>You&apos;re sitting in a coffee shop, sipping your latte and browsing the internet on public Wi-Fi. But are you putting your personal data at risk? Let&apos;s dive into the myths and realities of public Wi-Fi security.</title>
+      <link>https://theunhacked.com/</link>
+      <guid isPermaLink="false">asset-2026-08-08-d345d9db</guid>
+      <pubDate>Sat, 08 Aug 2026 16:19:32 GMT</pubDate>
+      <description>You&apos;re sitting in a coffee shop, sipping your latte and browsing the internet on public Wi-Fi. But are you putting your personal data at risk? Let&apos;s dive into the myths and realities of public Wi-Fi security.
+
+→ https://theunhacked.com/</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-08-d345d9db/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
