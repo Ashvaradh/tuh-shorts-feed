@@ -3,7 +3,7 @@
     <title>Content Agent Stack — tuh approved</title>
     <link>https://theunhacked.com</link>
     <description>Approved short-video assets for auto-distribution.</description>
-    <lastBuildDate>Tue, 18 Aug 2026 17:45:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:03:40 GMT</lastBuildDate>
     <item>
       <title>Your brain has a backdoor. And right now, someone&apos;s picking the lock.</title>
       <link>https://theunhacked.com</link>
@@ -1009,5 +1009,17 @@ cloudsecurity dataprotection encryption digitalprivacy cryptomator securecloud t
 
 → https://theunhacked.com/</description>
       <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-18-93ae1df4/short_1080x1920.mp4" type="video/mp4" />
+    </item>
+    <item>
+      <title>Picture this: Dashlane in 2026.</title>
+      <link>https://theunhacked.com</link>
+      <guid isPermaLink="false">asset-2026-08-19-b87ef22f</guid>
+      <pubDate>Wed, 19 Aug 2026 17:03:40 GMT</pubDate>
+      <description>Dashlane 2026: Privacy Peeker or Protector?
+
+#PrivacyPeeker #PasswordProtector #DigitalSovereignty #OnlineSecurity #TuhShorts
+
+→ https://theunhacked.com</description>
+      <enclosure url="https://ashvaradh.github.io/tuh-shorts-feed/media/asset-2026-08-19-b87ef22f/short_1080x1920.mp4" type="video/mp4" />
     </item>
   </channel></rss>
